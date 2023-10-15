@@ -1,0 +1,7 @@
+C:\Users\nata\source\repos\ArrayShift\ArrayShift\bin\Debug\ArrayShift.exe.config
+C:\Users\nata\source\repos\ArrayShift\ArrayShift\bin\Debug\ArrayShift.exe
+C:\Users\nata\source\repos\ArrayShift\ArrayShift\bin\Debug\ArrayShift.pdb
+C:\Users\nata\source\repos\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.AssemblyReference.cache
+C:\Users\nata\source\repos\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.CoreCompileInputs.cache
+C:\Users\nata\source\repos\ArrayShift\ArrayShift\obj\Debug\ArrayShift.exe
+C:\Users\nata\source\repos\ArrayShift\ArrayShift\obj\Debug\ArrayShift.pdb
