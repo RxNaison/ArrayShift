@@ -69,25 +69,26 @@ namespace ArrayShift
 
                 Console.SetCursorPosition(0, 1);
 
-                if (key == 'A' || key == 'a')
+                switch (char.ToUpper(key))
                 {
+                    case 'A':
                     ShiftLeft();                    
                     ShowArray();
-                }
-                else if (key == 'D' || key == 'd')
-                {
+                    break;
+                
+                    case 'D':
                     ShiftRight();
                     ShowArray();
-                }
-                else if (key == 'Q' || key == 'q')
-                {
+                        break;
+                        
+                    case 'Q':
                     Console.Clear();
                     RunApp = false;
-                } 
-                else
-                {
+                        break;
+                    default:
                     Console.SetCursorPosition(0, 5);
                     Console.WriteLine("Пошла нахуй шлюха");
+                        break;
                 }
             }
         }
