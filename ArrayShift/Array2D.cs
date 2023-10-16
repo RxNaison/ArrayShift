@@ -145,6 +145,7 @@ namespace ArrayShift
                 Console.SetCursorPosition(0, 1);
 
                 switch (char.ToUpper(key))
+                {
                     case 'W':
                     ShiftUp();
                     ShowArray();
@@ -168,6 +169,7 @@ namespace ArrayShift
                     Console.SetCursorPosition(0, 5);
                     Console.WriteLine("Пошла нахуй шлюха");
                 break;
+                }
             }
         }
 
